@@ -1,6 +1,9 @@
+postgres:
+  host: ${POSTGRES_HOST:localhost:5432} 
+  
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/hibernate_high_performance
+    url: jdbc:postgresql://${postgres.host}/spring_boot_postgres_db
     username: postgres
     password: root
   jpa:
