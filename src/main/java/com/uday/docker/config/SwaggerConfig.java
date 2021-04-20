@@ -26,8 +26,8 @@ public class SwaggerConfig {
 
     private ApiInfo metaData() {
         return new ApiInfo(
-                "Docker MySQL SpringBoot Demo",
-                "Learn How To DockeRize SpringBoot App With MySQL DB",
+                "Docker Postgres SpringBoot Demo",
+                "Learn How To DockeRize SpringBoot App With PostgreSQL DB",
                 "1.0",
                 "",
                 new Contact("Uday Patel", "", "pateluday07@gmail.com"),
