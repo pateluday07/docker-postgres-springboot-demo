@@ -1,6 +1,6 @@
 FROM openjdk:8-jre-slim
 
-MAINTAINER pateluday07@gmail.com
+LABEL maintainer="pateluday07@gmail.com"
 
 VOLUME /tmp
 
