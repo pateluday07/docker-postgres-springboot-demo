@@ -6,7 +6,7 @@ services:
     environment:
       - POSTGRES_HOST=docker-postgres-springboot-demo-db
     ports:
-      - "8081:8081"
+      - "8081:8080"
     networks:
       - network
     depends_on:
