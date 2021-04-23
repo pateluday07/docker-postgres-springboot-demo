@@ -1,4 +1,4 @@
-# docker-postgres-springboot-demo
+# docker-postgres-springboot-demo [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/pateluday07/docker-postgres-springboot-demo/blob/master/LICENSE)
 
 ![Header](src/main/resources/static/springboot+postgres+docker.png)
 
