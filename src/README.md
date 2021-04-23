@@ -1,8 +1,7 @@
 # docker-mysql-springboot-demo
 ![Header](src/main/resources/static/springboot+postgres+docker.png)
 
-This project has been developed to demonstrate how to 
-**dockerize** the **SpringBoot App** and **PostgreSQL database**.
+This project has been developed to demonstrate how to **dockerize** the **SpringBoot App** and **PostgreSQL database**.
 
 ### Requirements To Run Application Without Docker
 * JDK 1.8
